@@ -1,2 +1,3 @@
-# compare-2-video
-Basic Compare 2 Video Sederhana Using  Python  Using OpenCV
+## compare-2-video
+
+Membandingkan 2 video menggunakan python dan openCV
